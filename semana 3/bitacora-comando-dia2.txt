@@ -57,5 +57,5 @@ Respuesta: git commit -m "Funciones simples en JavaScript semana 3 dia 2"
 
 12. Comando usado para publicar la rama:
 
-Respuesta: git push -u origin Edgar_López
+Respuesta: git push -u origin Edgar_Lopez
 
