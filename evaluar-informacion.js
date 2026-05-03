@@ -6,7 +6,7 @@ function evaluarInformacion(tieneFuente, estaVerificada) {
   }
 }
 
-const resultado = evaluarInformacion(true, true)
+const resultado = evaluarInformacion(true, false)
 
 console.log("Evaluación de información:")
 console.log(resultado)
